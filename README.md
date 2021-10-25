@@ -14,7 +14,7 @@ https://www.gatenz-panel.com/
 https://kurnia-smm.com/
 http://www.gmedia-social.id/
 
-Cam Membuat SMM PANEL 
+Cara Membuat SMM PANEL 
 1. Cara Pertama, Kamu download Script SMM Panel diatas yang sudah disediakan. 
 2. Upload script ke dalam cpnel. 
 3. Lalu extract script ZIP. 
